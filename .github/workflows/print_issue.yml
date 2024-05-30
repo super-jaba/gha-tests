@@ -4,6 +4,8 @@ on:
   issues:
     types: [opened, closed]
 
+permissions: read-all
+
 
 jobs:
   run-print-issue:
